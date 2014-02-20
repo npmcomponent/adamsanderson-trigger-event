@@ -1,0 +1,12 @@
+{
+  "name": "adamsanderson-trigger-event",
+  "description": "Trigger native DOM events",
+  "version": "0.0.3",
+  "keywords": [
+    "event",
+    "events",
+    "dom",
+    "trigger"
+  ],
+  "dependencies": {}
+}
